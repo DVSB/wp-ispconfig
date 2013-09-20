@@ -7,11 +7,11 @@ Tested up to: 3.6.1
 Stable tag: 1.0
 License: GPLv2
 
-This plugin allow manage from Wordpress some features of your hosting service with ISPConfig 3 – Hosting Control Panel installed with remote user.
+This plugin allow manage from Wordpress some features of your hosting service with ISPConfig 3 â€“ Hosting Control Panel installed with remote user.
 
 == Description == 
 
-Wordpress Interfase for ISPConfig – Hosting Control Panel.
+Wordpress Interfase for ISPConfig â€“ Hosting Control Panel.
 You can use with a remote user on ISPConfig and allow insert in one step all data for a website's new client.
 You can have Wordpress installed in same host or in a remote host and with this plugin you can add All in One Client.
 This means client, DNS, Domain (WebSite), FTP user, email Domain and mailbox, all just with minimal inputs and one click!
